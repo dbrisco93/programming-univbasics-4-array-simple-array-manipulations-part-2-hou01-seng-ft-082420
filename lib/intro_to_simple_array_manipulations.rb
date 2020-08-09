@@ -15,3 +15,5 @@ end
 def using_delete(instructors, steven)
   instructors.delete(steven)
 end
+
+def using_delete_at
